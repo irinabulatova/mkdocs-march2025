@@ -6,5 +6,8 @@
 
 ## Методы
 
+## Справочник
+
+[Referecnce API](https://api.documentant.io/editor/)
 
 ## Контакты
