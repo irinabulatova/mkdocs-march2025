@@ -8,6 +8,6 @@
 
 ## Справочник
 
-[Referecnce API](https://api.documentant.io/editor/)
+[Reference API](https://api.documentant.io/editor/)
 
 ## Контакты
