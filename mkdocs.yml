@@ -7,4 +7,4 @@ nav:
  - Home: index.md
  - About: about.md
  - Contacts: contacts.md
- - API Reference: dist/index.html
+ - API Reference: index.html
